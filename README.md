@@ -1,1 +1,1 @@
-All codes will be provided after the paper entitled "Simulating Biological Reproduction Dynamics: Fused Gene-Force and Its Application in Edge Detection and Clusteirng" being accepted
+All codes will be provided after the paper entitled "Clustering via Identification of Edge Objects Based on Gene-Force" being accepted
