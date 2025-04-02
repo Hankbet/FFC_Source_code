@@ -1,4 +1,4 @@
-# FFC: Feature Force Clustering
+# FFC: Feature Force-based Clustering
 
 This repository contains the implementation of the **FFC** (Feature Force Clustering) algorithm, introduced in the paper:  
 **"FFC: Clustering via Identification of Edge Objects Based on Feature Force"**  
