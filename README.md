@@ -14,12 +14,12 @@ This repository contains the implementation of the **FFC** (Feature Force Cluste
 
 ##  🚀 Quick Start
 Run validation on Heart Disease dataset:
-"python FFC_example.py"
+  ```bash
+  python FFC_example.py
 
 
 ## Expected Output:
 plaintext
-自动计算的theta值: 0.0345
-Adjusted Rand Index (ARI): 0.8923
-Adjusted Mutual Information (AMI): 0.9145
-Normalized Mutual Information (NMI): 0.9211
+  Adjusted Rand Index (ARI): 0.8923
+  Adjusted Mutual Information (AMI): 0.9145
+  Normalized Mutual Information (NMI): 0.9211
