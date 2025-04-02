@@ -8,9 +8,11 @@ This repository contains the implementation of the **FFC** (Feature Force Cluste
 - Python 3.8+
 - Required packages:
   ```bash
+  numpy>=1.21.0
   pandas>=1.3.0
   scikit-learn>=1.0.0
   matplotlib>=3.4.0
+  ucimlrepo>=0.0.1
 
 ##  🚀 Quick Start
 Run validation on Heart Disease dataset:
@@ -19,7 +21,7 @@ Run validation on Heart Disease dataset:
 ```
 
 ##  Expected Output:
-plaintext
+```bash
   Adjusted Rand Index (ARI): 0.8923
   Adjusted Mutual Information (AMI): 0.9145
   Normalized Mutual Information (NMI): 0.9211
