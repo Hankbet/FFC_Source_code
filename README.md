@@ -22,6 +22,6 @@ Run validation on Heart Disease dataset:
 
 ##  Expected Output:
 ```bash
-  Adjusted Rand Index (ARI): 0.8923
-  Adjusted Mutual Information (AMI): 0.9145
-  Normalized Mutual Information (NMI): 0.9211
+  Adjusted Rand Index (ARI): 0.102
+  Adjusted Mutual Information (AMI): 0.169
+  Normalized Mutual Information (NMI): 0.235
