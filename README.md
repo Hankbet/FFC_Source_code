@@ -16,9 +16,9 @@ This repository contains the implementation of the **FFC** (Feature Force Cluste
 Run validation on Heart Disease dataset:
   ```bash
   python FFC_example.py
+```
 
-
-## Expected Output:
+##  Expected Output:
 plaintext
   Adjusted Rand Index (ARI): 0.8923
   Adjusted Mutual Information (AMI): 0.9145
